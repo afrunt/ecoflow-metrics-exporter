@@ -1,3 +1,4 @@
 /rest/target/
 /data/
 /.idea/
+/config/application.yaml
