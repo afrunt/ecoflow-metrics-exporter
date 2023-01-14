@@ -52,4 +52,4 @@ jobs:
       with:
         registry: registry.hub.docker.com
         username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_TOKEN }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
