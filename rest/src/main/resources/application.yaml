@@ -1,0 +1,12 @@
+ecoflow:
+  devices:
+    deltamax:
+      serialNumber: sn
+      appKey: appKey
+      secretKey: secretKey
+      name: Ecoflow Delta MAX 2000
+    deltamaxclone:
+      serialNumber: sn
+      appKey: appKey
+      secretKey: secretKey
+      name: Ecoflow Delta MAX 2000 Clone
