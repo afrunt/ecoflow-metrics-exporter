@@ -24,7 +24,7 @@ services:
       - ./config/grafana/provisioning:/etc/grafana/provisioning
 
   ecoflow_metrics_exporter:
-    image: afrunt/ecoflow-metrics-exporter:latest
+    image: afrunt/ecoflow-metrics-exporter:main
     container_name: ecoflow-metrics-exporter
     ports:
       - "8080:8080"
